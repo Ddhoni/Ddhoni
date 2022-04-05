@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ddhoni
 - 👀 I’m interested in Quantum Computing & Financial Engineering
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science & Data Science
 - 💞️ I’m looking to collaborate on Machine Learning & Financial Engineering
 - 📫 How to reach me...
 
