@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ddhoni
 - 👀 I’m interested in Data Science & Financial Engineering
 - 🌱 I’m currently learning Data Science & Financial Analytics
-- 💞️ I’m looking to collaborate on Machine Learning & Financial Engineering
+- 💞️ I’m looking to collaborate on Data Science especially in Machine Learning
 - 📫 How to reach me...
 
 <!---
