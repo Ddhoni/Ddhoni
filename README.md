@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dhoni Apriyadi</h1>
 <h3 align="center">Aspiring Data Scientist & Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, Frontend Engineering**
+- 🌱 I’m currently learning ** Big Data, Deep Learning, Reinforcement Learning, Automation System, and Fullstack Engineering**
 
 - 📫 How to reach me **Dhoniapriyadi19@gmail.com**
 
@@ -27,10 +27,12 @@ I'm a Senior year Data Science student passionate about **Data Science** and **M
 ### Degrees & Achievements:
 - 🎓 **Bachelor's of Science Candidate in Data Science** at Institut Teknologi Sumatera (GPA: 3.63/4.00).
 - 🚀 **Machine Learning Distinction Graduate** from Bangkit Academy, (GPA: 3.74/4.00).
-- 🎓 Algoritma Data Science School Grads
+- 🎓 **Algoritma Data Science School Grads**
+- 
 
 ## Fun Facts
-- 🌟 Achieved scholarships for study at Algoritma Data Science School 
+- 🌟 Achieved scholarships for study at Algoritma Data Science School
+- 🌟 Achieved scholarships by UdaCity for study at AI Programming with Python Nanodegree
 
 ## Let's Connect!
 Feel free to reach out if you're up for a tech chat, want to collaborate, or just need a good laugh! 🚀✨
