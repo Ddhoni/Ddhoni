@@ -28,7 +28,6 @@ I'm a Senior year Data Science student passionate about **Data Science** and **M
 - 🎓 **Bachelor's of Science Candidate in Data Science** at Institut Teknologi Sumatera (GPA: 3.63/4.00).
 - 🚀 **Machine Learning Distinction Graduate** from Bangkit Academy, (GPA: 3.74/4.00).
 - 🎓 **Algoritma Data Science School Grads**
-- 
 
 ## Fun Facts
 - 🌟 Achieved scholarships for study at Algoritma Data Science School
