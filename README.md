@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dhoni Apriyadi</h1>
-<h3 align="center">Aspiring Data Engineer, Machine Learning Engineer & Data Specialist</h3>
+<h3 align="center">Aspiring Data Engineer, Machine Learning Engineer, Data Analyst &  Fullstack Data Specialist</h3>
 
 - 🌱 I’m currently learning **Big Data, Deep Learning, Reinforcement Learning, Automation System, and Fullstack Engineering**
 
