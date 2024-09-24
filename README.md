@@ -25,11 +25,15 @@ I'm a Senior year Data Science student passionate about **Data Science** and **M
 
 ## Educational Journey
 ### Degrees & Achievements:
-- 🎓 **Bachelor's of Science Candidate in Data Science** at Institut Teknologi Sumatera (GPA: 3.63/4.00).
+- 🎓 **Bachelor's of Science in Data Science** at Institut Teknologi Sumatera (GPA: 3.59/4.00); Cum Laude.
 - 🚀 **Machine Learning Distinction Graduate** from Bangkit Academy, (GPA: 3.74/4.00).
-- 🎓 **Algoritma Data Science School Grads**
+- 🎓 **Algoritma Data Science School Scholarship 2023**
 
-## Fun Facts
+## Achievement
+- 🌟 Runner Up in Talenta AI: Innovation Challenge 2024
+- 🌟 TOP 5 Machine Learning Finalist in BPJS Healthkathon 2022 
+- 🌟 Runner Up in LITERA Business Innovation Competition 2021
+- 🌟 Runner Up in Econophysics and Big Data Ideathon Competition 2021 
 - 🌟 Achieved scholarships for study at Algoritma Data Science School
 - 🌟 Achieved scholarships by AWS for study at AI Programming with Python UdaCity Nanodegree
 
