@@ -35,7 +35,14 @@ I'm a Senior year Data Science student passionate about **Data Science** and **M
 - 🌟 Runner Up in LITERA Business Innovation Competition 2021
 - 🌟 Runner Up in Econophysics and Big Data Ideathon Competition 2021 
 - 🌟 Achieved scholarships for study at Algoritma Data Science School
-- 🌟 Achieved scholarships by AWS for study at AI Programming with Python UdaCity Nanodegree
+- 🌟 Achieved scholarships by AWS for study at AI Programming with Python UdanCity Nanodegree
+
+## Certifications
+- 📝 Tensorflow Developer Certified
+- 📝 Associate Data Scientist BNSP Certified
+- 📝 Alibaba Cloud : Big Data Certified
+- 📝 Alibaba Cloud : Cloud Computing Certified
+- 📝 Azure AI-900 Certified
 
 ## Let's Connect!
 Feel free to reach out if you're up for a tech chat, want to collaborate, or just need a good laugh! 🚀✨
